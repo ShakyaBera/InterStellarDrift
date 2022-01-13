@@ -5070,7 +5070,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentHealth: 0
-  maxHealth: 5
+  maxHealth: 1000
   deathEff: {fileID: 7606697948364971920, guid: 0ef39dfd6f349274ab733cef9583407b, type: 3}
   invincibilityLength: 3
   invinceCounter: 5

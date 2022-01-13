@@ -941,6 +941,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4000422917396285026, guid: ffdcf6438f8f32644b9d13410df57c49, type: 3}
+      propertyPath: maxHealth
+      value: 20
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ffdcf6438f8f32644b9d13410df57c49, type: 3}
 --- !u!1001 &1389292280
@@ -956,7 +960,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6804439512315485558, guid: 02102844e57956e4293466d6a1300c4d, type: 3}
       propertyPath: nxtLevel
-      value: GameCompleteScreen
+      value: GameOverScreen
       objectReference: {fileID: 0}
     - target: {fileID: 6804439512315485559, guid: 02102844e57956e4293466d6a1300c4d, type: 3}
       propertyPath: m_RootOrder
@@ -1343,6 +1347,10 @@ PrefabInstance:
     - target: {fileID: 1874835663, guid: c42f456cfcebb3b4aaca39ede0dd439d, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 7.283121
+      objectReference: {fileID: 0}
+    - target: {fileID: 1989186389, guid: c42f456cfcebb3b4aaca39ede0dd439d, type: 3}
+      propertyPath: m_Text
+      value: CRABSI
       objectReference: {fileID: 0}
     - target: {fileID: 1989186392, guid: c42f456cfcebb3b4aaca39ede0dd439d, type: 3}
       propertyPath: m_AnchoredPosition.x
