@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SpcObj
+  - Enemy
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player Layer
+  - Shot layer
+  - Enemy
+  - EnemyShot
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg
+    uniqueID: 4045342773
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Space Objects
+    uniqueID: 1996515439
+    locked: 0
+  - name: Enemies
+    uniqueID: 1477811217
+    locked: 0
+  - name: Shot
+    uniqueID: 2066296313
+    locked: 0
+  - name: player
+    uniqueID: 1028153493
+    locked: 0
