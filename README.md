@@ -1,3 +1,4 @@
 # InterStellarDrift
+Click and Download the Interstellar_Drift.EXE file, then install it on the computer.
 This is a Space Action Shooter Game, where we have to destroy space monster spaceships to save Earth and Universe.
 My game is named as "InterStellar Drift". It has five levels ranging from EASY to VERY HARD Difficulty. The final level has a boss, named CRABSI, and has 2 phases of attacking. The game has a scoring system. When the game starts, the score is 0. Then after we have gained points in level 1, the points are also carried forward to level 2. After completion of each level, next level will start automatically, with a pause. ESC to bring the Pause Menu. WASD to Move. Left Mouse Button to shoot. We also get powerups in between the fight (Shield, Speed Boost, Double Power). At last after defeating the boss, there is a Game Completion screen with final score and also has a message for the player.
